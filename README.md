@@ -4,6 +4,8 @@ This was a small C++/Python project to learn about crypting malware in order to 
 
 ![Scan Results](https://NoDistribute.com/result/image/MWsaYO1lknjRybi5.png)
 
+You still have to set up the build process yourself if you want to use this, take this as a challenge <:
+
 ## Features
 
 1. FUD at time of release - scantime and runtime using encryption and delayed decryption.
